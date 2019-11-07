@@ -14,3 +14,11 @@ C:\Users\Ian\source\repos\BlueBadge\ElevenNote\ElevenNote\ElevenNote.Data\obj\De
 C:\Users\Ian\source\repos\BlueBadge\ElevenNote\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CopyComplete
 C:\Users\Ian\source\repos\BlueBadge\ElevenNote\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
 C:\Users\Ian\source\repos\BlueBadge\ElevenNote\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
+C:\Users\Ian\source\repos\BlueBadge\ElevenNote\ElevenNote\ElevenNote.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ian\source\repos\BlueBadge\ElevenNote\ElevenNote\ElevenNote.Data\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Ian\source\repos\BlueBadge\ElevenNote\ElevenNote\ElevenNote.Data\bin\Debug\System.Web.Http.dll
+C:\Users\Ian\source\repos\BlueBadge\ElevenNote\ElevenNote\ElevenNote.Data\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Ian\source\repos\BlueBadge\ElevenNote\ElevenNote\ElevenNote.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ian\source\repos\BlueBadge\ElevenNote\ElevenNote\ElevenNote.Data\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Ian\source\repos\BlueBadge\ElevenNote\ElevenNote\ElevenNote.Data\bin\Debug\System.Web.Http.xml
+C:\Users\Ian\source\repos\BlueBadge\ElevenNote\ElevenNote\ElevenNote.Data\bin\Debug\System.Web.Http.WebHost.xml
